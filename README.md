@@ -1,5 +1,5 @@
 # MPAGSStats
-## Question 1 nd 2 
+## Question 1 and 2 
 See python notebooks 
 
 ## Question 3
