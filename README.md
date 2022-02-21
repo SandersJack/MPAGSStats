@@ -1,4 +1,6 @@
 # MPAGSStats
+## Question 1 nd 2 
+See python notebooks 
 
 ## Question 3
 As the probability is 1 death in 6 million we would expect the number of Deaths:
