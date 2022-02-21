@@ -19,3 +19,6 @@ b) Poission
 c) 
 d) 
 e) 
+
+## Question 6 
+Please find attched photo for working 
