@@ -1,3 +1,6 @@
+## Overleaf document can be found here or in the repo
+https://www.overleaf.com/read/gyvjvpnwpdnj
+
 # MPAGSStats
 ## Question 1 and 2 
 See python notebooks 
